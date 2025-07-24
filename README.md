@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Anime Coding" width="450"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavannarendra07&label=Profile%20views&color=0e75b6&style=flat" alt="pavannarendra07" /> </p>
 
 # 💫 About Me:
 🌱 I’m currently learning Java, Data Structures, and AI to build intelligent applications<br><br>👯 I’m looking to collaborate on Full-Stack Java projects and AI-powered content platforms.<br><br>🤝 I’m looking for help with Real-time Java + AI project ideas and implementation support<br><br>💬 Ask me about building AI-powered applications with Java and Python<br><br>📫 How to reach me narendrabunny0724@gmail.com<br><br>⚡ Fun fact My favorite bug to fix? The magical “turn it off and on” kind!<br><br>
