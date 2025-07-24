@@ -1,4 +1,4 @@
-## profile 
+## PavanNarendra07
 🚀 This is my space — where code, creativity, and AI come to life.
 <h1 align="center">Hey Everyone 👋, I'm Pavan Narendra Vasamsetti </h1>
 <h3 align="center">Aspiring Full-Stack Java Developer focused on building scalable service-based applications.</h3>
